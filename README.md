@@ -23,9 +23,9 @@ Study Plan: https://elzero.org/study/cplusplus-study-plan/
 > Website Assignments
 
 
-* [ ] 01- Intro Syntax Comments Assignments     [001 - 008]
-* [ ] 02- Variables Assignments                 [009 - 015]
-* [ ] 03- Data Types Assignments                [016 - 023]
+* [X] 01- Intro Syntax Comments Assignments     [001 - 008]
+* [X] 02- Variables Assignments                 [009 - 015]
+* [X] 03- Data Types Assignments                [016 - 023]
 * [ ] 04- Operators Assignments                 [024 - 029]
 * [ ] 05- Control Flow Conditions               [030 - 035]
 * [ ] 06- Switch Assignments                    [036 - 037]
