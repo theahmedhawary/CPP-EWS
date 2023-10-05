@@ -29,9 +29,9 @@ Study Plan: https://elzero.org/study/cplusplus-study-plan/
 * [X] 04- Operators Assignments                 [024 - 029]
 * [X] 05- Control Flow Conditions               [030 - 035]
 * [X] 06- Switch Assignments                    [036 - 037]
-* [ ] 07- Array & String Assignments            [038 - 046]
-* [ ] 08- Loop Assignments                      [047 - 054]
-* [ ] 09- Function Assignments                  [055 - 066]
+* [X] 07- Array & String Assignments            [038 - 046]
+* [X] 08- Loop Assignments                      [047 - 054]
+* [X] 09- Function Assignments                  [055 - 066]
 * [ ] 10- Containers - Vector Assignments       [067 - 074]
 * [ ] -
 * [ ] -
