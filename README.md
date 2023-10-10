@@ -32,7 +32,7 @@ Study Plan: https://elzero.org/study/cplusplus-study-plan/
 * [X] 07- Array & String Assignments            [038 - 046]
 * [X] 08- Loop Assignments                      [047 - 054]
 * [X] 09- Function Assignments                  [055 - 066]
-* [ ] 10- Containers - Vector Assignments       [067 - 074]
+* [X] 10- Containers - Vector Assignments       [067 - 074]
 * [ ] -
 * [ ] -
 * [ ] -
